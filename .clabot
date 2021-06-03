@@ -5,7 +5,8 @@
     "mmckegg",
     "pietgeursen",
     "sbillig",
-    "black-puppydog"
+    "black-puppydog",
+    "mycognosist"
   ],
   "message": "hi thanks for your contribution, welcome to the Sunrise Choir! before we accept your contribution, i will put on my boring beauracrat hat 🎩 and ask you to sign our Contributor License Agreement, as we don't seem to have the folx {{usersWithoutCLA}} on file. more information about the CLA process can be found [here](https://github.com/sunrise-choir/meta/blob/master/processes/cla.md), in short we think it's important for the project to 'own' our copyright, to be open source and still have the flexibility to experiment with future possibilities. please contact @ahdinosaur to get yourself added. =^.^="
 }
